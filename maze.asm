@@ -1,5 +1,5 @@
 .data
-	file: .asciiz "input.txt"
+	file: .asciiz "input_demo.txt"
 	buffer: .space 2048
 	
 	victory_msg: .asciiz "You won!"
