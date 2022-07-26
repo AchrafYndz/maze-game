@@ -59,7 +59,8 @@ maze-game
 
 7. Run the code by clicking the run icon in the toolbar. <br><img src="images/run_icon.png" alt="run icon" width=25>
 
-<h3>maze.asm</h3>
+### maze.asm
+
 If you're running `maze.asm`, you can solve the maze using the controls:
 
 |key|direction|
@@ -69,12 +70,14 @@ If you're running `maze.asm`, you can solve the maze using the controls:
 | s | down    |
 | d | right   |
 
-<h3>maze_extension.asm</h3>
+### maze_extension.asm
+
 If you're running the extension version, you should see the maze solving itself using the [depth first search](https://en.wikipedia.org/wiki/Depth-first_search) algorithm.
 
 ![dfs demo](images/dfs_demo.gif)
 
-<h2>Contributing</h2>
+## Contributing
+
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
@@ -85,9 +88,10 @@ If you have a suggestion that would make this better, please fork the repo and c
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<h2>Credits</h2>
+## Credits
 
 - My professor [Hans Vangheluwe](https://github.com/HansVangheluwe) and assistants [Stephen Pauwels](https://github.com/StephenPauwels) and [Brent van Bladel]()
 
-<h2>Copyright</h2>
+## Copyright
+
 This project is licensed under the terms of the MIT license and protected by Udacity Honor Code and Community Code of Conduct. See <a href="LICENSE.md">license</a> and <a href="LICENSE.DISCLAIMER.md">disclaimer</a>.
