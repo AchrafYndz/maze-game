@@ -1,4 +1,4 @@
-<div align="center"><img src="images/icon.png" width="100"></div>
+<div align="center"><img src="images/logo.png" width="100"></div>
 <h1 align="center">maze</h1>
 <p align="center"><strong>A full maze game implementation written in MIPS assembly.</strong></p>
 <br>
